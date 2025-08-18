@@ -1,13 +1,13 @@
 {
   "config": {
     "user": {
-      "phone": "18878897546",
-      "password": "123456123.lL"
+      "phone": "账号",
+      "password": "密码"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "广西壮族自治区 · 南宁市 · 江南区 · 邕州小镇附近",
+        "address": "广西壮族自治区 · 南宁市 · 江南区 · 人民法院附近",
         "latitude": "22.81",
         "longitude": "108.23",
         "province": "广西壮族自治区",
