@@ -1,18 +1,18 @@
 {
   "config": {
     "user": {
-      "phone": "工学云手机号",
-      "password": "工学云密码"
+      "phone": "18878897546",
+      "password": "123456123.lL"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "四川省 · 成都市 · 高新区 · 在科创十一街附近",
-        "latitude": "30.559922",
-        "longitude": "104.093023",
-        "province": "四川省",
-        "city": "成都市",
-        "area": "高新区"
+        "address": "广西壮族自治区 · 南宁市 · 江南区 · 邕州小镇附近",
+        "latitude": "22.81",
+        "longitude": "108.23",
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "area": "江南区"
       },
       "imageCount": 0,
       "description": [
@@ -23,7 +23,9 @@
       "specialClockIn": false,
       "customDays": [
         1,
+        2,
         3,
+        4,
         5
       ]
     },
@@ -82,6 +84,6 @@
         "to": "收件人邮箱"
       }
     ],
-    "device": "{brand: TA J20, systemVersion: 17, Platform: Android, isPhysicalDevice: true, incremental: K23V10A}"
+    "device": "{brand: Redmi 2407FRK8EC, systemVersion: 15, Platform: Android, isPhysicalDevice: true, incremental: OS2.0.206.0.VNNCNXM}"
   }
 }
