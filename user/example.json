@@ -1,18 +1,18 @@
 {
   "config": {
     "user": {
-      "phone": "账号",
-      "password": "密码"
+      "phone": "18878897546",
+      "password": "123456123.lL"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "广西壮族自治区 · 南宁市 · 江南区 · 人民法院附近",
-        "latitude": "22.81",
-        "longitude": "108.23",
+        "address": "广西壮族自治区 · 南宁市 · 西乡塘区 · 在风华园附近",
+        "latitude": "22.84",
+        "longitude": "108.24",
         "province": "广西壮族自治区",
         "city": "南宁市",
-        "area": "江南区"
+        "area": "西乡塘区"
       },
       "imageCount": 0,
       "description": [
@@ -26,7 +26,9 @@
         2,
         3,
         4,
-        5
+        5,
+        6,
+        7
       ]
     },
     "reportSettings": {
@@ -63,7 +65,7 @@
       },
       {
         "type": "AnPush",
-        "enabled": true,
+        "enabled": true，
         "token": "your_token",
         "channel": "通道ID,多个用英文逗号隔开",
         "to": "根据官方文档获取"
